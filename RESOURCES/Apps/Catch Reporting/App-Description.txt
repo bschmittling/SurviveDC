@@ -1,0 +1,11 @@
+SurviveDC iPhone App
+Designed and created by Brandon Schmittling @elbuenob
+
+Project Name: Manifest
+
+Description: An AppMakr mobile app with 5 sections:
+(1) Checkpoints: Displays a vertically scrollable list of all checkpoints with short description. Touching the arrow shows the full description. Touching the entry itself shows the checkpoint location on Google Maps in relation to current location. Individual checkpoint entries can be shared via social networks and an option to see "all" shows all checkpoints in Google Maps.
+(2) Catches: Displays an ongoing list of updates submitted via the third tab, "New Catch" with user-submitted thumbnail image, title with time of catch and short message. Touching the arrow shows the location of the catch on Google Maps in relation to current location. Touching the entry itself shows the full description with larger image. Individual catch entries can be shared via social networks and an option to see "all" shows all recent catches in Google Maps. The list can be updated manually by the user and the application also automatically checks for udpates when launched or re-launched.
+(3) New Catch: Displays a text field to write a message with option to attach an image. Canceling a catch report removes the keyboard to re-enable section navigation. Submitting a catch sends the text, optional image, and GPS coordinates for processing and entry into a MySQL database.
+(4) Udpates: Displays a vertically scrollable list of updates from twitter.  Individual tweet entries can be shared via social networks.
+(5) Rules: Displays a repetition of the rules and safety notice / waiver for reference before or during the game.

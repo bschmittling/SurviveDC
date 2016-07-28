@@ -1,0 +1,85 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<title>Checkpoints</title>
+<subtitle>Checkpoint Locations</subtitle>
+<link href="http://survivedc.org/"/>
+<updated>2011-04-13T18:30:02Z</updated>
+<author>
+<name>Survive DC</name>
+<email>donotreply@survivedc.com</email>
+</author>
+<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af0</id>
+
+<entry>
+<title>Start - Dupont Circle</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a61</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Starting checkpoint. Safe Zone: Circle, including both sides of street that forms the circle.<br><img src="http://app.survivedc.com/maps/start.jpg">]]></summary>
+<georss:point>38.909664 -77.043493</georss:point>
+</entry>
+
+<entry>
+<title>Kalorama Community Park</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a62</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area between 19th, Mintwood, and Columbia including both sides of the streets.<br><img src="http://app.survivedc.com/maps/12-oclock.jpg">]]></summary>
+<georss:point>38.920238 -77.044907</georss:point>
+</entry>
+
+<entry>
+<title>African-American Civil War Memorial</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a63</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area bounded by T St, 10th, Florida and 9th including both sides of the streets.<br><img src="http://app.survivedc.com/maps/2-oclock.jpg">]]></summary>
+<georss:point>38.917009 -77.025420</georss:point>
+</entry>
+
+<entry>
+<title>Ridge House (462 Ridge St NW)</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a64</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area bounded by N St, 5th St, M St, and New Jersey Ave including both sides of the streets.<br><img src="http://app.survivedc.com/maps/3-thirty.jpg">]]></summary>
+<georss:point>38.906368 -77.018196</georss:point>
+</entry>
+
+<entry>
+<title>Rawlins Park</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a65</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Entire area between the two halves of E St (New York Ave) from 21st to 17th, including both sides of the street.<br><img src="http://app.survivedc.com/maps/6-oclock.jpg">]]></summary>
+<georss:point>38.895691 -77.04258</georss:point>
+</entry>
+
+<entry>
+<title>C and O Canal</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a66</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area bounded by 30th St, M St, 25th St, and K St, including both sides of the streets.<br><img src="http://app.survivedc.com/maps/8-oclock.jpg">]]></summary>
+<georss:point>38.904011 -77.057358</georss:point>
+</entry>
+
+<entry>
+<title>Sheridan Circle</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a67</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area bounded by P, 22nd, R, and 28th streets including both sides of the streets and the P and Q St bridges.<br><img src="http://app.survivedc.com/maps/10-oclock.jpg">]]></summary>
+<georss:point>38.912178 -77.050629</georss:point>
+</entry>
+
+<entry>
+<title>Finish - Dupont Italian Kitchen</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a67</id>
+<updated>May 14, 2011 6:30PM</updated>
+<summary><![CDATA[Safe Zone: Area bounded by 17th, S, 18th, and Corcoran, including both sides of the streets.<br><img src="http://app.survivedc.com/maps/finish.jpg">]]></summary>
+<georss:point>38.912498 -77.038466</georss:point>
+</entry>
+
+
+</feed>

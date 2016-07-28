@@ -1,0 +1,19 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<title>Checkpoints</title>
+<subtitle>Checkpoint Locations</subtitle>
+<link href="http://survivedc.org/"/>
+<updated>2011-04-13T18:30:02Z</updated>
+<author>
+<name>Survive DC</name>
+<email>donotreply@survivedc.com</email>
+</author>
+<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+<entry>
+<title>Dupont Circle</title>
+<link href="http://www.survivedc.com/"/>
+<id>urn:uuid:ea2d33e0-662c-11e0-ae3e-0800200c9a66</id>
+<updated>April 12, 2011 4:27PM</updated>
+<summary><![CDATA[Starting checkpoint. Look for updates to this list on the day of the game.]]></summary>
+<georss:point>38.909664 -77.043493</georss:point>
+</entry>
+</feed>

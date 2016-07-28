@@ -1,0 +1,420 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<title>Catches</title>
+<subtitle>Recent catches</subtitle>
+<link href="http://example.org/"/>
+<updated>2005-12-13T18:30:02Z</updated>
+<author>
+<name>Survive DC</name>
+<email>donotreply@survivedc.com</email>
+</author>
+<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+<entry>
+<title>Catch Reported (8:03PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>February 25, 2011 8:03PM</updated>
+<summary><![CDATA[Caught Eric... Sportin' his Jess3 gear.
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg">]]></summary>
+<georss:point>38.930603 -77.031915</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (7:48PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>February 25, 2011 7:48PM</updated>
+<summary><![CDATA[Caught chris
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1298681307-selected_picture.jpg">]]></summary>
+<georss:point>38.928791 -77.032883</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:35AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>February 6, 2011 11:35AM</updated>
+<summary><![CDATA[Caught Amy!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1297010146-selected_picture.jpg">]]></summary>
+<georss:point>38.929427 -77.030664</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (9:50PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>February 4, 2011 9:50PM</updated>
+<summary><![CDATA[Wanted to catch the jackass the kicked in my door but wasn't fast enough. This photo summarizes my bewilderment. 
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1296874223-selected_picture.jpg">]]></summary>
+<georss:point>38.926748 -77.028434</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:21PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>January 3, 2011 10:21PM</updated>
+<summary><![CDATA[Caught Vince
+
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1294111276-selected_picture.jpg">]]></summary>
+<georss:point>38.927073 -77.028345</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (7:21PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 31, 2010 7:21PM</updated>
+<summary><![CDATA[New catch!!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1293841263-selected_picture.jpg">]]></summary>
+<georss:point>38.858049 -77.104744</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (6:28PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 23, 2010 6:28PM</updated>
+<summary><![CDATA[Another catch!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1293146923-selected_picture.jpg">]]></summary>
+<georss:point>29.016419 -82.044332</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (7:31PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 21, 2010 7:31PM</updated>
+<summary><![CDATA[Caught mom!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292977908-selected_picture.jpg">]]></summary>
+<georss:point>30.310870 -81.829613</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:57PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 12, 2010 11:57PM</updated>
+<summary><![CDATA[Caught Theresa coming down Harvard Street!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292216279-selected_picture.jpg">]]></summary>
+<georss:point>38.927116 -77.028235</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:31AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 12, 2010 11:31AM</updated>
+<summary><![CDATA[I'm frightened. The term caught has taken on a entirely new meaning. #hashtag @username
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292171461-selected_picture.jpg">]]></summary>
+<georss:point>38.858149 -77.104295</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:23AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 11, 2010 11:23AM</updated>
+<summary><![CDATA[At apple store. 
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292084638-selected_picture.jpg">]]></summary>
+<georss:point>38.863265 -77.060486</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (9:38AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 11, 2010 9:38AM</updated>
+<summary><![CDATA[In Arlington checking the app!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292078294-selected_picture.jpg">]]></summary>
+<georss:point>38.857868 -77.104249</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (9:20PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 9:20PM</updated>
+<summary><![CDATA[New catch!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1292034056-selected_picture.jpg">]]></summary>
+<georss:point>38.888586 -77.093443</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:04AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 11:04AM</updated>
+<summary><![CDATA[Yet another
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291997090-selected_picture.jpg">]]></summary>
+<georss:point>38.911181 -77.044077</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (11:02AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 11:02AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996923-selected_picture.jpg">]]></summary>
+<georss:point>38.913074 -77.047013</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:58AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:58AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996697-selected_picture.jpg">]]></summary>
+<georss:point>38.911275 -77.043972</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:56AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:56AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996595-selected_picture.jpg">]]></summary>
+<georss:point>38.911381 -77.044060</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:55AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:55AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+<img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996556-selected_picture.jpg">]]></summary>
+<georss:point>38.911072 -77.043620</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:54AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:54AM</updated>
+<summary><![CDATA[Allicia
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996477-selected_picture.jpg">]]></summary>
+<georss:point>38.911383 -77.044443</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:52AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:52AM</updated>
+<summary><![CDATA[Olivia
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291996324-selected_picture.jpg">]]></summary>
+<georss:point>38.913074 -77.047013</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:44AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:44AM</updated>
+<summary><![CDATA[Allicia]]></summary>
+<georss:point>38.911657 -77.044356</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:35AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:35AM</updated>
+<summary><![CDATA[Allicia
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291995351-selected_picture.jpg">]]></summary>
+<georss:point>38.911452 -77.044362</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:30AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:30AM</updated>
+<summary><![CDATA[Allicia]]></summary>
+<georss:point>38.911388 -77.044403</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:27AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:27AM</updated>
+<summary><![CDATA[Allicia]]></summary>
+<georss:point>38.911285 -77.044454</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:25AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:25AM</updated>
+<summary><![CDATA[New catch!]]></summary>
+<georss:point>38.911469 -77.044161</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:23AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:23AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!]]></summary>
+<georss:point>38.911469 -77.044161</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:22AM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 10, 2010 10:22AM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!]]></summary>
+<georss:point>38.911533 -77.044127</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:24PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 10:24PM</updated>
+<summary><![CDATA[Got Annie Tek!!!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291951453-selected_picture">]]></summary>
+<georss:point>38.858064 -77.104807</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (10:19PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 10:19PM</updated>
+<summary><![CDATA[Ohhhh! Got Allicia on 14th street. She didn't get away. She had me at "hello"!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291951162-selected_picture">]]></summary>
+<georss:point>38.858060 -77.104705</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (5:39PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 5:39PM</updated>
+<summary><![CDATA[Reporting from Sticky Fingers bakery. No runner activity so far. Only deliciousness. 
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291934377-selected_picture">]]></summary>
+<georss:point>38.930583 -77.031916</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:58PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:58PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291931910-selected_picture">]]></summary>
+<georss:point>38.911365 -77.043909</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:55PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:55PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291931735-selected_picture">]]></summary>
+<georss:point>38.911496 -77.044165</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:46PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:46PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291931215-selected_picture">]]></summary>
+<georss:point>38.911384 -77.044503</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:29PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:29PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291930165-selected_picture">]]></summary>
+<georss:point>38.911376 -77.044440</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:23PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:23PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291929803-selected_picture">]]></summary>
+<georss:point>38.911439 -77.044424</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:20PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:20PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291929617-selected_picture">]]></summary>
+<georss:point>38.911420 -77.044203</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:13PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:13PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291929230-selected_picture">]]></summary>
+<georss:point>38.911379 -77.044461</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:11PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:11PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291929101-selected_picture">]]></summary>
+<georss:point>38.911459 -77.044378</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:10PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:10PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291929018-selected_picture">]]></summary>
+<georss:point>38.911340 -77.044509</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:08PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:08PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291928883-selected_picture">]]></summary>
+<georss:point>38.914415 -77.047430</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:03PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:03PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291928635-selected_picture">]]></summary>
+<georss:point>38.911370 -77.044428</georss:point>
+</entry>
+<entry>
+<title>Catch Reported (4:00PM)</title>
+<link href="http://projects.cluster-dev.com/journey-app/uploaded_files/1298682193-selected_picture.jpg"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 4:00PM</updated>
+<summary><![CDATA[Caught this person coming down 14th with a huge group. Chasers: get after them!
+
+ <img src="http://projects.cluster-dev.com/journey-app/uploaded_files/1291928453-selected_picture">]]></summary>
+<georss:point>38.914415 -77.047430</georss:point>
+</entry>
+</feed>

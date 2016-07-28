@@ -1,0 +1,24 @@
+The official SurviveDC manifest for use during the event in Washington, DC. Follow along in real-time with catch reporting, photo uploading, checkpoint list and twitter feed right on you cell phone. All proceeds go to fund the event so tell your friends!
+
+
+SuriveDC, Journey, DC, Survive, Manifest, Race, Game, SF0
+
+
+This app was built using AppMakr and uses the follow content:
+(1) Google Map feed which will be updated to include all checkpoints on the day of the game (for secrecy)
+(2) Catch feed which is an XML file located at the subdomain app.survivedc.com. This file is generated following each
+(3) Catch repot, a form submitting to a PHP file also at the same subdomain which records the catch report as a database entry and generates catch feed.
+(4) Twitter feed (our official twitter account)
+(5) Rules which is HTML content
+
+For more on our events, visit: http://www.survivedc.com/
+
+SurviveDC is a race through the streets of DC. You will try to make it to six checkpoints as fast as you can, while avoiding being caught by chasers. Those who survive will be praised and feted at the end. Those who fall will become chasers themselves, rising to pursue their former friends and allies.
+
+
+SurviveDC
+
+Checkpoints: http://maps.google.com/maps/ms?hl=en&ie=UTF8&vps=1&jsv=321b&msa=0&output=georss&msid=210881846030788425148.00049e654180afa6e10ac
+
+
+Designed and created by Brandon Schmittling @elbuenob

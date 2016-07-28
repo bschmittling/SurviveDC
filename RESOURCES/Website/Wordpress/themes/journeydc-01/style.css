@@ -1,0 +1,132 @@
+/*
+Theme Name: JourneyDC
+Theme URI: http://www.survivedc.com
+Description: Custom Wordpress theme for JourneyDC
+Version: 1.0
+Author: Brandon Schmittling
+Author URI: http://www.cluster-media.com/
+*/
+
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}.footer-area {
+	padding-top: 20px;
+}
+.footer-text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #3C3C3C;
+	padding-top: 20px;
+	text-align: center;
+}
+#footer-text a {
+	color: #3C3C3C;
+	text-decoration:none;
+}
+#footer-text a:hover {
+	color: #666666;
+	text-decoration:none;
+}
+.content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #999999;
+	padding-bottom: 40px;
+}
+#content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #999999;
+}
+#content h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 18px;
+	color: #999999;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+#content a {
+	color: #FFFFFF;
+	text-decoration:none;
+}
+#content a:hover {color: #999999;}
+#content h2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 18px;
+	color: #CCCCCC;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+/* Comments Paged */
+.comment-page-numbers a{
+	padding: 5px;
+	color: white;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	background-color: black;
+}
+.current-comment-page{
+	padding: 5px;
+	color: black;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	background-color: white;
+}
+
+/* COMMENTS */
+#comment{
+	width: 500px;
+}
+.commentlist{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	width: 470px;
+}
+
+#commentlist a{
+	color: black;
+	text-decoration: underline;
+}
+
+.commentlist .quote {
+	}
+
+.commentlist li {
+ 	padding-left: 18px;
+ 	padding-bottom: 22px;
+ 	padding-right: 18px;
+ 	padding-top: 5px;
+ 	list-style-type: none;
+	margin-top:15px;
+	background:#ffffff url(http://www.survivedc.com/wp-content/themes/journeydc/images/page/bg_commentlist.gif) bottom no-repeat;
+	color:#000000;
+	}
+
+.commentlist cite {
+	display:block;
+	font-style:normal
+	}
+
+#commentlist cite a:link, #commentlist cite a:visited {
+	color:#ffffff;
+	text-decoration:none;
+	}
+
+#commentlist cite a:hover, #commentlist cite a:active {
+	color:#FFF;
+	text-decoration:underline;
+	}

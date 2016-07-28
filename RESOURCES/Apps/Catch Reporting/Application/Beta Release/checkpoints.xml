@@ -1,0 +1,31 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
+<title>Checkpoints</title>
+<subtitle>Checkpoint Locations</subtitle>
+<link href="http://survivedc.org/"/>
+<updated>2005-12-13T18:30:02Z</updated>
+<author>
+<name>Survive DC</name>
+<email>donotreply@survivedc.com</email>
+</author>
+<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+<entry>
+<title>Checkpoint 1</title>
+<link href="http://survivedc.com"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 10:24PM</updated>
+<summary><![CDATA[Checkpoint 1
+
+ <img src="http://survivedc.com/image.jpg">]]></summary>
+<georss:point>38.858064 -77.104807</georss:point>
+</entry>
+<entry>
+<title>Checkpoint 2</title>
+<link href="http://survivedc.com"/>
+<id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+<updated>December 9, 2010 10:24PM</updated>
+<summary><![CDATA[Checkpoint 2
+
+ <img src="http://survivedc.com/image.jpg">]]></summary>
+<georss:point>38.858064 -77.104807</georss:point>
+</entry>
+</feed>

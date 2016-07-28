@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<atom:link href="http://projects.cluster-dev.com/journey-app/catch.xml" rel="self" type="application/rss+xml" />
+  <link>http://projects.cluster-dev.com/journey-app/catch.xml</link>
+  <title>Catches</title>
+  <description><![CDATA[Arrive at 2:00 - 3:30
+Leave 5:00
+http://www.stonewallresort.com/]]></description>
+
+<item>
+    <title>Some Place</title>
+    <link>http://example.com/item/123</link>
+    <guid>http://example.com/item/123</guid>
+    <pubDate>Wed, 16 Jun 2010 18:37:00 GMT</pubDate>
+    <description><![CDATA[Catch made here]]></description>
+    <geo:lat>5.5319</geo:lat>
+     <geo:long>95.8972</geo:long>
+</item>
+
+</channel>
+</rss>

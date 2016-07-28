@@ -1,0 +1,44 @@
+Journey Log WebApp
+https://github.com/rubin110/journey-log-webapp
+
+Created by Rubin Starset - rubin110
+https://github.com/rubin110
+
+— BEGIN MESSAGE —
+
+From email sent by Thomas Lotze on 3/9/2012 - thomas.lotze@gmail.com
+
+Things done:
+* I added tagging.
+* I added in the start time and (tried to) report checkin times in local central time -- it looks like it's still Pacific to me, though.
+* I added a link to un-tag yourself (/resurrected) and a link to it on the player profile page if you're tagged.
+* I changed the code to actually redirect you (rather than just say it's going to redirect you and letting you click the link yourself) -- if you want to change it back for testing, the relevant lines are line 131 and 132 in functions.php
+
+It's all in the repo (https://github.com/rubin110/journey-log-webapp) and checked out on jl.vc  If you do any testing, these were the SQL lines I used to reset the db after testing (so as to maintain the checkpoint ids):
+update checkpoints set checked_in_so_far=0, first_checkin_at=NULL, most_recent_checkin_at=NULL, first_runner=NULL, most_recent_runner=NULL;
+delete from runners;
+delete from checkins;
+delete from tags;
+
+I printed out three each of page-size QR codes for Reg, Finish, CP 1-5, resurrection, and (just in case something goes wrong with printing) rid generation:
+
+Registration (so people can test logging in after they scan their manifest's QR code) = http://jl.vc/c/7DBB4
+CP 1 = http://jl.vc/c/7AFF5
+CP 2 = http://jl.vc/c/F3D74
+CP 3 = http://jl.vc/c/A157A
+CP 4 = http://jl.vc/c/460EF
+CP 5 = http://jl.vc/c/C4B8E
+Finish = http://jl.vc/c/65452
+Resurrection = http://jl.vc/resurrected
+Runner id generation = http://jl.vc/rid
+
+My printer's not great; it seemed to work well enough for my phone to scan (and it was a kick, seeing the flow actually working properly) -- but if anyone else wants to print out new ones, I generated the QR codes from http://qrcode.kaywa.com/ and the pdfs are attached.
+
+Could/should still be done (in my rough order of importance):
+- add links to tweet on player profile, checkin, tag, resurrection
+- instructions could be more instructive ;)
+- instructions and player profile could use some design -- everything could, probably
+- checkin should check that you aren't tagged before checking in
+- could use a once-over for logging (logging all requests definitely a good idea; not sure if checkins are being logged)
+
+I probably won't have more time to work on this until day-of in Austin, but I think it's in a workable state right now (MVP!)
